@@ -158,6 +158,9 @@ open_graph:
   twitter_id:
   google_plus:
 
+# Default image for Open Graph
+default_image:
+
 
 ##############################################################################
 # Plugins
